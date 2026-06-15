@@ -1,0 +1,6 @@
+torch
+librosa
+pandas
+numpy==2.0.0
+soundfile
+msclap
