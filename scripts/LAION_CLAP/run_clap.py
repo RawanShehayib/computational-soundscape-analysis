@@ -30,7 +30,7 @@ listen to (window) 5 seconds → compare against 15 classes → pick the closest
 CLASS_DESCRIPTIONS = {
     'goose':      'goose or duck calling, quacking, honking waterfowl',
     'bird_call':  'bird singing, chirping, tweeting, bird call or song',
-    'speech':     'human speech, talking, voice, conversation, footsteps',
+    'human_presence': 'human speech, talking, voice, footsteps, person walking',
     'vehicle':    'car engine, truck, road traffic, motor vehicle noise',
     'airplane':   'airplane flying overhead, aircraft engine, jet noise',
     'helicopter': 'helicopter rotor noise, helicopter flying overhead',
